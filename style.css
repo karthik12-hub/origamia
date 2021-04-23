@@ -1,0 +1,61 @@
+h1{
+    color:#ff0000;
+    margin: 50px;;
+    border:solid
+}
+h2{
+    color: rgb(26, 54, 218);
+    margin:100px;
+    border:solid
+}
+
+
+.till {
+    text-align: center;
+}
+.say{
+    text-align: center
+}
+.div1{
+  
+    background-color: rgb(15, 95, 224);
+     display:flex;
+     flex-wrap: wrap;
+     justify-content: space-between;
+     border:solid
+}
+.div2{
+    background-color: rgb(255, 5, 213);
+     display:flex;
+     flex-wrap: wrap;
+     justify-content: space-between;
+     border:solid
+}
+.div3{
+    background-color: rgb(0, 255, 234);
+     display:flex;
+     flex-wrap: wrap;
+     justify-content: space-between;
+     border:solid
+}
+.div4{
+    background-color: rgb(255, 230, 0);
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border:solid
+}
+.div5{
+    background-color: rgb(255, 94, 0);
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border:solid
+}
+.div6{
+    background-color: rgb(183, 0, 255);
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border:solid
+}
